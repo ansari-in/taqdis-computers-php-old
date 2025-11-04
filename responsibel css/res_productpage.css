@@ -1,0 +1,475 @@
+@media screen and (max-width: 800px) {
+    body {
+      /* background-color: red; */
+      width: 100vw;
+      height: 100vw;
+      overflow-x: hidden;
+    }
+    header {
+      position: fixed;
+    }
+    nav {
+        width: 100vw;
+      position: fixed;
+      z-index: 100;
+    }
+    .taqdisocmputers_icon {
+      display: none;
+    }
+    .adfs_Hsd024sadf {
+      font-size: 20px;
+    }
+    .t_hjsadf0214asdf {
+      font-size: 30px;
+    }
+    .sdfjh214sdfjkH {
+      height: auto;
+      margin: 20px 0 0 0;
+      /* height: 50vw; */
+    }
+    .navbar_jasdf025s4df {
+      display: none;
+    }
+    .background_scrollingImages_jsdf145 {
+      width: 100vw;
+      height: 30vw;
+    }
+    .backimage_jklsadf024asdf {
+      display: none;
+      justify-content: center;
+      position: absolute;
+      /* transform: translate(80vw ,0px); */
+      /* margin: 0 0 0 5vw; */
+      width: 100vw;
+      height: 37vw;
+    }
+    .sco_imgsdaf01524sadf {
+      width: 80vw;
+      height: 37vw;
+    }
+    .imagecolor_jksdf0124asdf {
+      width: 100vw;
+      margin: 45px 0 0 0;
+    }
+    .title {
+      font-size: 40px;
+    }
+    .adresstaqdiscomputers {
+      font-size: 15px;
+      font-weight: 300;
+      font-family: fantasy;
+    }
+    .asdf_isdf025asdfu {
+      justify-content: center;
+      width: 100vw;
+      /* grid-template-columns: auto; */
+    }
+    .image_jhsdf0224 {
+      width: 100vw;
+    }
+    .servisecsother_asdf54sadf10254dsf {
+      width: 90vw;
+      display: flex;
+      flex-wrap: wrap;
+      /* flex-direction: column; */
+      row-gap: 12px;
+      column-gap: 5px;
+      transition: none;
+      justify-content: center;
+      align-content: center;
+    }
+    .servisecsother_asdf54sadf10254dsf:hover {
+      display: flex;
+      width: 100vw !important;
+    }
+    .services_mahaeseva_jksdf0524sadf {
+      border-radius: 2vw;
+      width: 200px;
+      /* background-color: red; */
+      height: 215px;
+      /* width: 65vw; */
+      /* margin: 0 0 0 20vw; */
+    }
+    .services_mahaeseva {
+      width: 200px;
+      height: 164px;
+      /* background-color: red; */
+    }
+    .mahasevaback {
+      width: 150px;
+    }
+    .services_mahaeseva_jksdf0524sadf:hover .mahasevaback {
+      width: 160px;
+    }
+    .jksadf_H045sd7f {
+      font-size: 15px;
+      width: 200px;
+      height: 52px;
+    }
+    .heading_servicesetcasdf {
+      font-size: 25px;
+    }
+    .services_taqdiscomputers_etcasdf {
+      width: 100vw;
+    }
+    .servicesretcetc_im {
+      display: flex;
+      flex-wrap: wrap;
+      width: 100vw;
+    }
+    .hyservimgetc021 {
+      width: auto;
+    }
+    .services_etcnsdfkjl012 {
+      opacity: 1;
+      /* height: 45vw; */
+      width: 45vw;
+    }
+    .servicepagelow_sadf0124sdf {
+      height: 330px;
+      /* height: 10vw; */
+    }
+    .text_serversetc_taqdiscomp {
+      text-shadow: 2px 3px 4px black;
+      font-size: 17px;
+      margin: 0;
+      width: 40vw;
+    }
+    #imageposition_etcasdf05 {
+      margin: 75px 0 0 8px;
+    }
+    #imageposition_etcasdf01 {
+      margin: 126px 0 0 8px;
+    }
+  
+    #imageposition_etcasdf03 {
+      margin: 0;
+    }
+    #imageposition_etcasdf04 {
+      display: grid;
+      margin: 100px 0 0 15px;
+      justify-content: right;
+    }
+    .btnarrowshowwer {
+      width: 100vw;
+    }
+    #imageposition_etcasdf08 {
+      display: grid;
+      justify-content: right;
+      margin: 130px 0 0 8px;
+      /* width: 40vw; */
+      /* transform: translate(25px,0); */
+    }
+    .safkjs_kasf054sadf {
+      width: 100vw;
+    }
+    .sadf_klsadf05274sdfmahaeseva {
+      font-size: 35px;
+      width: 100vw;
+    }
+    .asfd0243sdfg_ljkasdf {
+      width: 100vw;
+    }
+    .gsadfjjsf543fg_asf {
+      column-gap: 10px;
+      width: 95vw;
+    }
+    .image_back_mahaetc {
+      width: 90px;
+    }
+    .titledpocume_jkldsf042asdf {
+      width: 190px;
+    }
+    .imagebackimageinserts {
+      width: 179px;
+    }
+    #wer_ujhsa042asdf {
+      display: none;
+    }
+    .showlessservi {
+      width: 37px;
+      height: 37px;
+      border-radius: 66px;
+      box-shadow: 0px 0px 10px -3px gray;
+      background-color: transparent;
+    }
+    .showfulldivsadf_uhas {
+      box-shadow: 0px 0px 10px -3px gray;
+      background-color: transparent;
+  
+      width: 37px;
+      height: 37px;
+      border-radius: 66px;
+    }
+    .rpodust-hinmesadfkj_iasfd0 {
+      width: 100vw;
+    }
+    .sdf_jkdsg05asdfadsg512asdf {
+      display: flex;
+      justify-content: center;
+      width: 100vw;
+    }
+    .sadgf_kisadf025asdf {
+      width: 100vw;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .servisecsother_asdf54sadf10254dsf {
+      width: 100vw !important;
+      transition: none;
+    }
+    .servisecsother_asdf54sadf10254dsf:hover {
+      width: 100vw !important;
+      transition: none;
+    }
+    .qwesdf_jhsdf0asdf {
+      width: 170px;
+      height: 160px;
+    }
+    .sdf_jkdsg05asdfadsg512asdf {
+      justify-content: center;
+      width: 100vw;
+    }
+    .sdaf_jasfd054asdf2545asdf {
+      width: 170px;
+    }
+    .box_asdf0asdfkljasdf {
+      width: 170px;
+      height: 140px;
+    }
+    .sdf_jsadf053asdflkasdf {
+      width: 150px;
+      height: 140px;
+    }
+    .asdf_kjsdf054sadfjk5asdf:hover .sdf_jsadf053asdflkasdf {
+      width: 160px;
+      height: 160px;
+    }
+  
+    .sadf_kjsdf0543asdfjhsafd {
+      font-size: 15px;
+    }
+  
+    .sadfasdfcolorprc_sdgf054sadaf {
+      font-size: 12px;
+    }
+    .price_asdfh054asdfg {
+      font-size: 20px;
+    }
+  
+    /* footercssstart */
+    footer {
+      width: 100vw;
+    }
+    .footer_jsadf0254sadf {
+      width: 100vw;
+    }
+    .footer_contact_us {
+      width: 100vw;
+      display: grid;
+      justify-content: center;
+      font-size: 15px;
+      /* width: 100vw; */
+    }
+    .officephoneno {
+      font-size: 14px;
+    }
+    .jasdf024asdfjh {
+      display: none;
+    }
+    .asd_jhasdf024sdf {
+      display: grid;
+    }
+    .fotvdoc_125sadf {
+      display: grid;
+      justify-content: center;
+      text-align: center;
+      font-size: 15px;
+    }
+    .asd_jhasdf024sdf {
+      justify-content: center;
+      text-align: center;
+    }
+    .mobile_no_12sadf {
+      width: 100vw;
+      margin: auto;
+      justify-content: center;
+    }
+  
+    /* servicesmap settiong open */
+    .map_isadf045sadf{
+      display: none;
+    }
+    .samap_safhidemobile{
+      margin: 20px 0 0 0;
+      display: grid;
+    }
+  
+  
+    /* servicesmap settiong close */
+  
+    /* footercssclose */
+
+    /* responsibel products page css open */
+    .taqdiscomputersdhule{
+        width: 100vw;
+    }
+    .containteerprodunsdaf_uidf054asdfugasf{
+        width: 100vw;
+    }
+    .asdf-hlwer05sadfhjJasdf54sdfiasdf{
+        padding: 17px 0 0 0;
+        width: 100vw;
+    }
+    .asdf_jkasdf0543sadfkj{
+        width: 100vw;
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .titlesadf-024cproducttitle_iasfd0{
+        width: 100vw;
+    }.title_hasd05asdf{
+        padding: 0 20px 0 20px;
+        font-size: 15px;
+        width: 100vw;
+
+    }
+    .productsimages_iodsf01534sdfkljwe042sadfga{
+        margin: 12px 0 0 0;
+        justify-content: center;
+        align-content: center;
+        height: auto;
+        width: 100vw;
+        display: inline-flex;
+        flex-direction: row;
+    }
+    .backimage_inserter_jkasdfonsadf_juhasfd0{
+        overflow : hidden;
+        box-shadow: 0px 0px 6px -2px rgb(27, 27, 71);
+        margin:  12px 0 0 20px;
+        width: 90vw;
+        height: 300px;
+    }
+    .backimage_portducTclickshwo_hasd{
+        overflow : hidden;
+        width: 300px;
+    }
+    .bigimage_insertcetce_iouadsf052asdf{
+        width: 94vw;
+        /* margin:  0 0 0 12px; */
+        /* width: 200px; */
+        /* width: 100vw; */
+    }
+    .images_isadf045on_shownghp_hsdf02modeasdsdf{
+        display: grid;
+        /* background-color: red; */
+        position: relative;
+    }
+    .preimageclic_sdf041asdf{
+        width: 290px;
+        height: 290px;
+    }
+    .preimageclic_sdf041asdf2{
+        width: 290px;
+        height: 290px;
+    }
+    .preimageclic_sdf041asdf3{
+        width: 290px;
+        height: 290px;
+    }
+    .preimageclic_sdf041asdf4{
+        width: 290px;
+        height: 290px;
+    }
+    .title_etcprodcutres_hasdandotersinforman{
+        width: 100vw;
+        padding: 0 15px;
+    }
+    .righthand_prod_iosadf024asf{
+        width: 90vw;
+    }
+    .oipwer_iosd21asdf20asdf{
+        width: 90vw;
+        height: auto;
+    }
+    .titleproducts_iasdf0asdf{
+        margin: 12px 0 5px 0;
+        /* text-align: justify; */
+        /* padding: 0 15px; */
+        width: 90vw;
+        font-size: 15px;
+        /* display: block; */
+    }
+    .qwe_usdf054sadfhasdf54as{
+        align-content: center;
+        display: block;
+        align-items: center;
+        position: relative;
+        
+    }
+    .sdficonsadf_iasdf042adf{
+        display: inline-flex;
+    }
+    .tex_avalibity_and_unacaliblity_kjasd{
+        height: 22px;
+        position: relative;
+        transform: translate(0px,-3px);
+        align-content: center;
+        display: inline-flex;
+    }
+   
+    .prise_prdocusrs_etdcectra_ioasd105ads{
+        /* padding: 0 0 0 12px ; */
+        margin:  0 0 5px 0;
+        /* height: 40px; */
+        /* margin: 0; */
+        width: 100px;
+        /* display: inline-flex; */
+    }
+    .buybtninsertproduct_etc_asdfhb{
+        width: 150px;
+        /* display: inline-flex; */
+    }
+    .asdre_uhsdf054sjhw205sadf{
+        width: 90vw;
+    }
+    .mnsdfp_0sadf5mjbhsadf{
+        width: 90vw;
+        padding: 0 20px 0 0 ;
+        /* width: 100vw; */
+    }
+    .wer_ue012wer{
+        width: 90vw;
+        box-shadow: none;
+    }
+    .pruductsrecets_etc_jhsd012asdfuhsadf{
+        margin: 0;
+        padding: 0;
+        width: 100vw;
+    }
+    .hkjs_huasfd04534sadf{
+        width: 100vw;
+    }
+    .products_etc_erecetn_2121asdf{
+        margin:  0 0 12px 0;
+        width: 100vw;
+    }
+    .qwery_asf042sadfu{
+        row-gap: 5px;
+        column-gap: 5px;
+        justify-content: left;
+        padding: 0 0 5px 2px;
+        display: inline-flex;
+        flex-wrap: wrap;
+        /* flex-direction: column; */
+    }
+    .isadf_uyhwer00sa42df{
+        /* margin:  0 10px; */
+        box-shadow: 0px 0px 6px -3px rgb(71, 71, 71);
+    }
+    /* responsibel products page css close */
+
+
+
+  }

@@ -1,0 +1,786 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Otomanopee+One&family=Signika:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jomhuria&family=Josefin+Sans:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jomhuria&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alice&family=Suez+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alice&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  box-sizing: border-box;
+  overflow-x: hidden;
+  width: 1280px;
+  background-color: rgb(247, 247, 247);
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+header {
+  z-index: 1000;
+  position: fixed;
+  height: 70px;
+  box-shadow: 0px 0px 9px -3px #30527d;
+  background-color: #fffffffb;
+  display: block;
+  width: 100vw;
+}
+nav {
+  /* box-shadow: 0px 0px 9px -3px #30527d; */
+  z-index: 1000;
+  position: fixed;
+  height: 70px;
+  /* background-color: white; */
+  width: 1280px;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.taqdiscomputers_icon {
+  width: 45px;
+}
+a {
+  display: block;
+  color: black;
+  text-decoration: none;
+}
+ul {
+  height: 70px;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  text-align: center;
+  /* background-color: red; */
+  display: inline-flex;
+}
+.sadfjh02jksadf_jsadf {
+  margin: 0 0 0 12px;
+  width: 300px;
+  height: 70px;
+  display: inline-flex;
+  justify-content: left;
+  align-items: center;
+  align-self: center;
+  text-align: center;
+  /* border: 2px solid rgb(240, 240, 240); */
+}
+.menubtn_jsadf027sdf {
+  cursor: pointer;
+  margin: 0 12px 0 0;
+  display: grid;
+}
+.menul {
+  margin: 2px 0;
+  background-color: black;
+  width: 26px;
+  height: 3px;
+}
+.menu_btn {
+  background-color: transparent;
+  width: 25px;
+  height: 3px;
+}
+/* menu btn_start */
+.manu_btn0a5sdf {
+  margin: 0 12px 0 7px;
+  text-align: center;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  /* background: red; */
+  width: 32px;
+  height: 30px;
+  cursor: pointer;
+}
+#menubtn {
+  font-size: 24px;
+}
+.lefthand_menu12sadf {
+  display: none;
+  box-shadow: 0px 0px 9px -3px #30527d;
+  left: 0;
+  z-index: 1000;
+  background: white;
+  position: absolute;
+  top: 0;
+  width: 250px;
+  height: 100vh;
+}
+.menu1_hnadsf {
+  width: 100px;
+  height: 100px;
+  background: yellow;
+}
+.menu_jhnasdf025asdf042 {
+  box-shadow: 0px 0px 9px -3px #30527d;
+  align-content: center;
+  /* justify-content: center; */
+  display: grid;
+  height: 70px;
+  grid-template-columns: auto auto;
+  /* background: yellow; */
+}
+.btnmenu_nsadf057asdf {
+  display: grid;
+  cursor: pointer;
+  align-items: center;
+  align-self: center;
+  text-align: center;
+  /* margin: 0px 0 0 15px; */
+  justify-content: center;
+  /* background: red; */
+  width: 39px;
+  height: 29px;
+  align-content: center;
+  margin: 0 0 0 16px;
+}
+
+.gif_computers {
+  align-items: center;
+  align-self: center;
+  text-align: center;
+  display: grid;
+  position: relative;
+  width: 70px;
+}
+.computers_gif {
+  width: 70px;
+}
+.home_btn_hnjsdf {
+  /* background: red; */
+  /* border: 2px solid gold; */
+  display: grid;
+  grid-template-columns: auto auto;
+  /* justify-content: center; */
+  align-items: center;
+  align-self: center;
+  text-align: center;
+  height: 42px;
+  font-weight: 700;
+  font-size: 15px;
+  text-transform: capitalize;
+  cursor: pointer;
+  border-bottom: 1px solid rgb(248, 248, 248);
+}
+.home_btn_hnjsdf:hover {
+  background-color: #5177a8;
+  color: white;
+}
+#leftome_btn {
+  background-color: #30527d;
+  color: white;
+}
+
+.home_text_jkadsf024asdf {
+  /* margin: 0 0 0 12px; */
+  text-align: left;
+}
+.hrmenubar_asdf024adf {
+  /* background-color: #30527d; */
+  border: none;
+  height: 2px;
+  margin: 0 0 12px 0;
+}
+.menubaclpagebtn {
+  background-color: rgba(0, 0, 0, 0.514);
+  width: 100vw;
+  height: 100vh;
+  /* display: grid; */
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+}
+
+/* manu_close */
+
+.adfs_Hsd024sadf {
+  margin: 0 0 0 4px;
+  font-family: "Suez One", serif;
+  font-size: 20px;
+  color: #30527d;
+  letter-spacing: 0.016em;
+}
+.t_hjsadf0214asdf {
+  font-family: "Suez One", serif;
+  font-size: 30px;
+}
+.navbar_jasdf025s4df {
+  height: 35px;
+  display: inline-flex;
+  justify-content: center;
+  align-content: center;
+  align-self: center;
+  align-items: center;
+}
+.btns_homepagejksadf024sdf {
+  display: inline-flex;
+  justify-content: center;
+  align-content: center;
+  align-self: center;
+  align-items: center;
+  background-color: transparent;
+  font-family: "Josefin Sans", sans-serif;
+  cursor: pointer;
+  color: black;
+  border: none;
+  margin: 0 12px;
+  font-size: 17px;
+  font-weight: 600;
+  height: 26px;
+  width: 74px;
+  /* background-color: yellow; */
+  border-radius: 3px;
+}
+
+.btns_homepagejksadf024sdf:hover {
+  cursor: pointer;
+  border-bottom: 2.5px solid black;
+}
+.sadf_jhksdf024asdf {
+  display: block;
+  height: 26px;
+  width: 74px;
+}
+
+.taqdis_compueters {
+  padding: 70px 0 0 0;
+  display: grid;
+  position: relative;
+}
+.background_scrollingImages_jsdf145 {
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  margin: 0;
+  padding: 0;
+  display: inline-flex;
+  margin: 20px 0 0 0;
+  /* background-image: url(/img/photo-1523821741446-edb2b68bb7a0.jpg); */
+
+  width: 1280px;
+  height: 430px;
+  flex-flow: column;
+  overflow: hidden;
+  flex-wrap: nowrap;
+}
+
+.sdfjh214sdfjkH {
+  position: absolute;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  background-size: 100%;
+  width: 1280px;
+  height: 430px;
+  /* animation: slider3 15s infinite linear; */
+}
+
+.backimage_jklsadf024asdf {
+  opacity: 0.3;
+  position: absolute;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  background-size: 100%;
+  width: 1280px;
+  height: 430px;
+  animation: slider 15s infinite;
+}
+@keyframes slider {
+  0% {
+    background-image: url(../img/background-3228704__340.webp);
+  }
+  40% {
+    background-image: url(../img/businessman-2606506__340.webp);
+  }
+  100% {
+    background-image: url(../img/businessman-3213659__340.webp);
+  }
+}
+
+.sco_imgsdaf01524sadf {
+  filter: blur(0px);
+  /* box-shadow: -1px 0px 193px 132px white; */
+
+  background-color: rgb(30, 54, 99);
+  width: 1100px;
+  /* display: none; */
+  height: 430px;
+
+  background-size: 100% 100%;
+  /* margin: 9px 0 0 0; */
+  animation: slider2 15s infinite;
+}
+@keyframes slider2 {
+  0% {
+    background-image: url(../img/background-3228704__340.webp);
+  }
+  40% {
+    background-image: url(../img/businessman-2606506__340.webp);
+  }
+  100% {
+    background-image: url(../img/businessman-3213659__340.webp);
+  }
+}
+.imagecolor_jksdf0124asdf {
+  margin: 20px 0 0 0;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  text-align: center;
+}
+.image_jhsdf0224 {
+  width: 1280px;
+}
+.title {
+  display: inline-flex;
+  border-bottom: 2px solid #30527d;
+  margin: 0 0 5px 0;
+  font-weight: 700;
+  color: #30527d;
+  font-family: "Signika", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  /* letter-spacing: 0.034em; */
+}
+.adresstaqdiscomputers {
+  font-weight: 800;
+  font-size: 15px;
+}
+.asdf_isdf025asdfu {
+  margin: 20px 0 20px 0;
+  width: 1280px;
+  display: grid;
+  justify-content: center;
+}
+.servisecsother_asdf54sadf10254dsf {
+  /* justify-content: center; */
+  /* column-gap: 25px; */
+  /* width: 1200px; */
+  width: 1004px;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  transition: width 0.3s ease-in-out;
+  /* transition: column-gap 0.3s ease; */
+
+  /* background-color: white; */
+}
+
+.servisecsother_asdf54sadf10254dsf:hover {
+  /* column-gap: 25px;  */
+  /* transition: column-gap 1s ease; */
+  width: 1150px;
+}
+.services_mahaeseva_jksdf0524sadf {
+  /* background-color: yellow; */
+  box-shadow: 0px 6px 14px -7px #4f596a;
+  background-color: white;
+  border-radius: 20px;
+  overflow: hidden;
+  width: 251px;
+  /* border: 2px solid red; */
+  height: 275px;
+}
+.services_mahaeseva {
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  text-align: center;
+  display: grid;
+
+  width: 251px;
+
+  height: 215px;
+}
+.mahasevaback {
+  border-radius: 30px;
+  width: 190px;
+}
+.services_mahaeseva_jksdf0524sadf:hover .mahasevaback {
+  width: 200px;
+}
+.jksadf_H045sd7f {
+  background: linear-gradient(7deg, #22426a, #1e59b5);
+  font-size: 20px;
+  font-family: "ZCOOL XiaoWei", serif;
+  /* background-color: #1b385f; */
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  text-align: center;
+  display: grid;
+  position: relative;
+  /* padding: 17px 0 0px 13px; */
+  font-size: 16px;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  width: 251px;
+  height: 60px;
+  /* background: transparent; */
+}
+.jasdf024asdfjh {
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  text-align: center;
+  background-color: rgba(9, 8, 88, 0.938);
+  width: 231px;
+  height: 101px;
+  overflow: hidden;
+}
+.taqdis_computers_map {
+  margin: -142px 0 0 -241px;
+  width: 693px;
+  /* height: 195px; */
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  text-align: center;
+  display: inline-flex;
+}
+
+/* footer startted */
+footer {
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+  padding: 15px 15px 15px 15px;
+  margin: 30px 0 0 0;
+  width: 1280px;
+  background: #30527d;
+  text-transform: capitalize;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  /* text-align: center; */
+}
+.footer_jsadf0254sadf {
+  /* border: 2px solid red; */
+  /* background-color: aqua; */
+  width: 1190px;
+  display: grid;
+  position: relative;
+  grid-template-columns: auto auto;
+}
+
+.asd_jhasdf024sdf {
+  margin: 12px;
+  text-align: right;
+  justify-content: right;
+  display: grid;
+  line-height: 2;
+}
+.contactus {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.mobile_no_12sadf {
+  margin: 0 0 0 100px;
+  position: relative;
+  justify-content: right;
+  text-align: right;
+  display: inline-flex;
+}
+.tail_mobile_no_045sadf {
+  font-weight: 700;
+  color: white;
+}
+.emailid_014asfd {
+  color: white;
+  text-transform: lowercase;
+}
+.officephoneno {
+  font-size: 14px;
+}
+.address_taqdiscomputers {
+  line-height: 1.4;
+}
+.fotvdoc_125sadf {
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+  border-top: 1.3px solid #2f5d8e;
+  background: #30527d;
+  /* background: yellow; */
+  height: 60px;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+/* footer closed */
+/* mahaesevastart */
+
+.taqdiscomputers_jsdf {
+  padding: 70px 0 0 0;
+}
+.sadf_klsadf05274sdfmahaeseva {
+  text-transform: uppercase;
+  width: 1263px;
+  height: 50px;
+  /* background-color: red; */
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  align-content: center;
+  font-weight: 700;
+  font-size: 20px;
+  font-family: "Acme", sans-serif;
+  font-size: 35px;
+  margin: 20px 0;
+  color: #30527d;
+}
+.map_isadf045sadf {
+  width: 100vw;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  margin: 20px 0;
+}
+.map_sd_kasdf2sdf {
+  display: grid;
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px -9px #2d2d73;
+}
+.samap_safhidemobile{
+  display: none;
+  width: 100vw;
+  /* display: grid; */
+  justify-content: center;
+}
+.map_sd_kasdf2sdf1 {
+  display: grid;
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px -9px #2d2d73;
+}
+.asdf_ksadf2152asdf {
+  display: grid;
+  position: relative;
+}
+.jksadf_kjasdf02sdf {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: auto auto auto;
+}
+.documents_maha012sadf {
+  /* height: 600px; */
+  width: 300px;
+  margin: 12px;
+  background-color: white;
+  display: grid;
+}
+.document_ksadf012asdf {
+  font-size: 17px;
+  font-weight: 700;
+  margin: 5px 12px;
+}
+.documetns_maha_ksdf02sdf {
+  /* background-color: red; */
+  /* border: 2px solid black; */
+  width: 300px;
+}
+.sadf_jksadf024sdf5465asdf {
+  padding: 0 0 0 25px;
+  /* background-color: yellow; */
+  display: grid;
+  justify-content: left;
+  text-align: left;
+}
+
+.documetn_type_knsdf012sdf {
+  width: 300px;
+  /* background-color: gold; */
+}
+/* .jksdf02asdfjjsad_jklasdh{
+  /* display: grid; */
+.ul_kjasdf042sadf {
+  display: grid;
+  height: 175px;
+}
+.asfd0243sdfg_ljkasdf {
+  display: grid;
+  justify-content: center;
+}
+.gsadfjjsf543fg_asf {
+  width: 900px;
+  display: inline-flex;
+  flex-wrap: wrap;
+  position: relative;
+  column-gap: 30px;
+  justify-content: center;
+
+  row-gap: 25px;
+  /* grid-template-columns: auto auto auto; */
+}
+
+.titledpocume_jkldsf042asdf {
+  border-top: 2px solid #c1c1c1;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  display: grid;
+  /* padding: 12px; */
+  background-color: white;
+  width: 280px;
+  box-shadow: 0px 6px 22px -15px #22316f;
+}
+.safd_jkasfd054asf {
+  height: 65px;
+  padding: 8px;
+  /* height: 35px; */
+  font-weight: 700;
+  text-align: center;
+  text-transform: capitalize;
+  justify-content: center;
+  align-content: center;
+  display: grid;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background: linear-gradient(7deg, #293c60, #2525d0);
+  color: white;
+}
+.sdfsadf_jkg054sdfg {
+  /* background-color: red; */
+  font-weight: 400;
+  font-size: 14px;
+  text-transform: capitalize;
+  z-index: 100;
+  position: relative;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.imagebackimageinserts{
+  position: absolute;
+  justify-content: center;
+  align-content: center;
+  width: 250px;
+  height: 120px;
+  display: grid;
+  z-index: 5;
+  opacity: 0.2;
+ 
+}
+.image_back_mahaetc{
+  width: 120px;
+}
+.documet_i542sadf {
+  border-top: 1px solid whitesmoke;
+
+  padding: 3px 0 3px 12px;
+  line-height: 1.7;
+}
+.sadfkj_jh98045ewrjh {
+  display: none;
+  z-index: 100;
+  position: relative;
+  text-transform: capitalize;
+  margin: 0 20px 12px 0;
+  /* display: grid; */
+  float: right;
+  font-size: 13px;
+  color: blue;
+}
+.sadfkj_jh98045ewrjh:hover{
+  text-decoration: underline;
+}
+.servicontants0246{
+  margin: 20px 0;
+  display: grid;
+  
+}
+.servicesretcetc_im{
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  width: 1250px ;
+  grid-gap: 5px ;
+  grid-template-columns: auto auto auto auto;
+}
+.hyservimgetc021{
+  
+  /* border: 2px solid red; */
+  object-fit: cover;
+  display: grid;
+  width: 290px;
+  height: 190px;
+  /* opacity: 0.6; */
+  
+}
+.hyservimgetc021:hover .text_serversetc_taqdiscomp{
+  text-decoration: underline;
+  
+  
+}
+.imagehepreetc{
+  
+  display: grid;
+  position: absolute;
+}
+.services_etcnsdfkjl012{
+  opacity: 0.8;
+  width: 290px;
+  height: 190px;
+  object-fit: cover;
+  display: grid;
+  position: absolute;
+  border-radius: 5px;
+}
+.services_etcnsdfkjl012:hover{
+  opacity: 1;
+}
+.text_serversetc_taqdiscomp{
+  /* background-color: rgba(255, 255, 255, 0.384); */
+  text-transform: uppercase;
+  margin: 12px 0 0 12px;
+  text-shadow: 2px 3px 4px black;
+  font-family: 'Chelsea Market', cursive;
+  font-size: 21px;
+  font-weight: 800;
+  display: grid;
+  position: relative;
+  z-index: 100;
+  color: white;
+}
+#imagesiz_retcsetsadf045sadf1{
+  height: 180px;
+}
+#imagesiz_retcsetsadf045sadf4{
+  height: 180px;
+}
+#imageposition_etcasdf01{
+  margin: 145px 0 0 8px;
+}
+#imageposition_etcasdf03{
+  margin: 12px 0 0 120px;
+}
+#imageposition_etcasdf04{
+  margin: 145px 0 0 55px;
+}
+#imageposition_etcasdf05{
+  margin: 120px 0 0 8px;
+}
+#imageposition_etcasdf08{
+  
+  margin: 145px 0 0 145px;
+}
+/* mahaesevaclose */
