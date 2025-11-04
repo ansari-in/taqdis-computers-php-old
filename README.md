@@ -2,6 +2,10 @@
 
 A comprehensive PHP-based website for **Taqdis Computers**, a computer sales, services, and training center located in Dhule, Maharashtra, India. This website provides information about various services including Maha E-Seva (CSC), computer sales, courses, and products.
 
+## 🌐 Live Preview
+
+**🔗 [View Live Website](https://taqdiscomputers-old.kesug.com/)**
+
 ## 🏢 About Taqdis Computers
 
 **Location:** Vallipura Ansar Chowk, Near Maulana Azad School, Dhule - 424001, Maharashtra, India
@@ -130,6 +134,9 @@ Government certificates and services available:
 - Caste Validity Certificate
 
 ## 🚀 Installation & Setup
+
+### Quick Start
+🌐 **[Visit Live Demo](https://taqdiscomputers-old.kesug.com/)** - No installation required!
 
 ### Prerequisites
 - XAMPP/WAMP or any PHP server
